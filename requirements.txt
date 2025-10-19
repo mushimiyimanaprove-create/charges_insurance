@@ -1,7 +1,7 @@
-import streamlit as st
+streamlit 
 scikit-learn
-import numpy as np
-import pandas as pd
+numpy
+pandas
 scikit-learn==1.2.2
 numpy==1.26.4
 pandas==2.2.2
